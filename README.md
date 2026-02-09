@@ -29,7 +29,7 @@ Using historical sales data, the objective is to build a machine learning model 
 ## ▶How to Run
 
 # Clone the repository
-git clone https://github.com/Manish-Kumar2005/BigMartSales__Prediction-Model-
+git clone https://github.com/barbiepink/BigMartSales__Prediction-Model--main
 
 # Install dependencies
 pip install -r requirements.txt
